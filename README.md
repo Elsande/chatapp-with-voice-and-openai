@@ -6,7 +6,8 @@ Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of C
 * Name    : Iffo Elsande Pratama Putra
 * Program : IBM Academy Advance AI
 
-## Overview Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
+
+# Overview Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
 
 ### OpenAI
 OpenAI is a research organization that aims to promote and develop friendly artificial intelligence in a way that benefits humanity as a whole. One of their key projects is GPT-3, which is a state-of-the-art natural language processing model. We will be using GPT-3 in our assistant to allow it to understand and respond to a wide range of user inputs.
